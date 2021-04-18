@@ -1,0 +1,7 @@
+﻿  test1.cpp
+C:\Users\黄宇欣\Desktop\test1\test1.cpp(67,22): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\Users\黄宇欣\Desktop\test1\test1.cpp(72,22): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\Users\黄宇欣\Desktop\test1\test1.cpp(73,22): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\Users\黄宇欣\Desktop\test1\test1.cpp(74,22): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+C:\Users\黄宇欣\Desktop\test1\test1.cpp(75,22): warning C4229: 使用了记时错误: 忽略数据上的修饰符
+  test1.vcxproj -> C:\Users\黄宇欣\Desktop\test1\Debug\test1.exe

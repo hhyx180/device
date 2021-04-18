@@ -1,0 +1,2 @@
+C:\Users\黄宇欣\Desktop\test1\Debug\test1.exe
+C:\Users\黄宇欣\Desktop\test1\Debug\test1.pdb
