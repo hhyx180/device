@@ -165,7 +165,6 @@ typedef struct Struct_Version{
 	BYTE	minor;	//´Î°æ±¾ºÅ
 } VERSION;
 
-
 typedef struct Struct_DEVINFO{
 	VERSION		Version;
 	CHAR		Manufacturer[64];
